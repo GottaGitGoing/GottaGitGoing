@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Welcome to my "interactive" resume.</h1>
+<main>
+ 
+<section>
+<p> Here are a list of languages I have worked with. I have hyperlinked each language to open a list of projects (or mini-projects :D) I have done either for my classes or as hobby.
+<ol>
+  <li>C++</li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>SQL</li>
+  <li>CSS/HTML</li>
+</ol>
+</b>
+</p>
+</section>
 
-<!--
-**GottaGitGoing/GottaGitGoing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section>
+  <p> These are the Frameworks I have worked with.
+  <ol>
+    <li>Selenium WebDriver</li>
+    
+  </ol>
+  </p>
+</section>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</main>
