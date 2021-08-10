@@ -9,7 +9,8 @@
 		<li>Creating a <a href="https://github.com/GottaGitGoing/ShindlerProj3/tree/master/app">
 		HashMap</a> (<a href="https://github.com/GottaGitGoing/proj3/tree/master/app">Chaining Approach</a>). Practicing Safe Memory Usage (School)</li>
 		<li>Implementing Functionalities of a <a href="https://github.com/GottaGitGoing/proj4/tree/master/app">Text Editor</a> (School)</li>
-		<li>Implementing <a href="">Queues</a>, Stacks, AVL Trees to Solve specific problems (School)</li>
+		<li>Implementing <a href="https://gitlab.com/ArianBuckets/ics46_shindler_project5/-/tree/master/app">Priority Queues</a>,  
+			<a href="https://gitlab.com/ArianBuckets/ics46_shindler_project4/-/tree/master/app">AVL Trees</a> to Solve specific problems (School)</li>
 	</ul>
   <li>Python</li>
 	<ul>
