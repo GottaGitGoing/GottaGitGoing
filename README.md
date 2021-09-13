@@ -19,7 +19,13 @@
 	</ul>
   <li>Java</li>
 	<ul>
-		<li>Wrote a Compiler For a Language</li>
+		<li>Wrote a Compiler For a Language.(School) Per the professor's academic honesty request, I cannot post the repo.
+		However, it was CS 142A, with professor Brian Demsky. The grammar was for a made-up language called Crux. We wrote the grammar
+			rules using ANTLR4. Which established the visitor pattern basics. We then wrote the appropriate visitor patterns for each 
+			Parse-Tree. Afterwards, we implemented Type checking. (int, bool, arrays, functions) As the second to last step, we lowered it to a step
+			where in the last step we can more easily create our CFG and write the machine code. (where we had to use x86 instructions to 
+			place variables, return values, parameters... in the appropriate registers and making sure the machine code can be run when compiled through gcc.)
+		</li>
 	</ul>
   <li>SQL</li>
   <li>CSS/HTML</li>
